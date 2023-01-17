@@ -5,12 +5,12 @@ Jalees is a website created as a project for our Web Application Development (SW
 
 # Features include:
 
-“*” Sign up as a parent or as a babysitter. 👨‍👩‍👧‍👦
-“*” Post a request for a temporary babysitter for your kid(s), and select the start and end date for the job. 📨
-“*” Babysitters can send offers in SR/hour for each request. 💲
-“*” View babysitter's offers, and accept or reject them. ✅
-“*” Leave a review/rating for babysitters you've worked with. ⭐️
-“*” Email or contact babysitters via whatsapp. 📲
+* Sign up as a parent or as a babysitter. 👨‍👩‍👧‍👦
+* Post a request for a temporary babysitter for your kid(s), and select the start and end date for the job. 📨
+* Babysitters can send offers in SR/hour for each request. 💲
+* View babysitter's offers, and accept or reject them. ✅
+* Leave a review/rating for babysitters you've worked with. ⭐️
+* Email or contact babysitters via whatsapp. 📲
 
 # Some screenshots:
 
