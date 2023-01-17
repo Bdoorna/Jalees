@@ -3,7 +3,7 @@
 
 Jalees is a website created as a project for our Web Application Development (SWE381) course, which aims to help parents and babysitters alike to find temporary, scheduled babysitting job opportunities. Jalees was built from scratch in 7 weeks and was made with lots of love! 👶🏽🤍
 
-#Features include:
+# Features include:
 
 -Sign up as a parent or as a babysitter. 👨‍👩‍👧‍👦
 -Post a request for a temporary babysitter for your kid(s), and select the start and end date for the job. 📨
@@ -12,7 +12,8 @@ Jalees is a website created as a project for our Web Application Development (SW
 -Leave a review/rating for babysitters you've worked with. ⭐️
 -Email or contact babysitters via whatsapp. 📲
 
-#Some screenshots:
+# Some screenshots:
+
 <img width="320" alt="68747470733a2f2f692e6962622e636f2f70665866395a482f53637265656e2d53686f742d323032322d31322d31312d61742d31302d35322d35372d504d2e706e67" src="https://user-images.githubusercontent.com/104881279/213014504-5187e0c6-50d5-41e6-9a2d-c34dfe3f2033.png">
 
 <img width="320" alt="68747470733a2f2f692e6962622e636f2f315473336877322f53637265656e2d53686f742d323032322d31322d31312d61742d31302d35332d31362d504d2e706e67" src="https://user-images.githubusercontent.com/104881279/213014525-29989942-b59b-439f-a9b5-dcb55b735017.png">
